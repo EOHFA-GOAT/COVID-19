@@ -1,0 +1,1 @@
+The interactive feature of the notebook is currently not available in Github. To interact with the Impact of COVID-19 on the Global Economy IPython notebook, download it.
